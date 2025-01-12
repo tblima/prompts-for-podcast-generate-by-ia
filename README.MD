@@ -18,14 +18,6 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="./output/podcast_audio.mp3" controls title="Podcast"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
